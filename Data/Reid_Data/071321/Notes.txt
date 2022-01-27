@@ -1,0 +1,8 @@
+- None of the tests used wet gel electrodes
+- Test 1 on right bicep had USB isolator and laptop was connected to power outlet
+- Test 2 and onwards was done without the USB isolator or power outlet connection
+- We only put only 1 sensor on his bicep and only recorded the raw bicep value during bicep tests
+- We tested both left arm and right arm rather than just the right arm as compared to last time
+- Right tricep test collected only rectified signal whereas all other sec
+- Sensor marked with long green line is good
+- Right tricep test 1 was a raw signal, test 2 and onwards were rectified signals

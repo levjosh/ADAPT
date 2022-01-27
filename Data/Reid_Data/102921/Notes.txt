@@ -1,0 +1,4 @@
+Tracking trap activation
+(time, right trap, left trap)
+taped onto trap with painters tape
+

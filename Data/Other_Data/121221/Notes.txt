@@ -1,0 +1,12 @@
+Test 1:
+Levin, Upper trap, Shrugging whenever, taped on, DFRobot sensor
+
+Test 2:
+Nick, Upper trap, slow increase and slow decrease over 1 min, taped on, DFRobot sensor
+
+Test 3, 4:
+Justin, Upper trap, natural movements randomly, taped on, DFRobot sensor
+
+Test 5:
+Justin, Upper trap, natural movements randomly, taped on with blue surface electrodes, MyoWare
+
