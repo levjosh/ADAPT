@@ -11,3 +11,6 @@ The team has built an exoskeleton that fits around his orthosis. The exoskeleton
 
 ## ADAPT Content/Files
 This repository contains the data we collect from Reid as well as some of the code we implement into our project. We use multiple data collecting codes with Arduino breadboard and code for controlling the exoskeloton.
+
+## Contact
+If you are interested learning more about this project or feel as though you may be able to provide any form of assistance, please feel free to contact my team and I via email (levinjak@gmail.com).
